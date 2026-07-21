@@ -1,1 +1,1 @@
-"console.log('App running successfully!');" 
+console.log("DevOps Pipeline Active"); 
